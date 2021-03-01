@@ -2,7 +2,7 @@
 
 ## Contents
 
-- README.md
+- README.md 
   This file.
 - .env.example  
   Environment variables for MySQL access. This file should be renamed as .env and fill accordingly.
