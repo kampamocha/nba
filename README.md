@@ -7,7 +7,7 @@
 - .env.example  
   Environment variables for MySQL access. This file should be renamed as .env and fill accordingly.
 - Data_Exploration.ipynb  
-  Jupyter notebook to initial data exploration
+  Jupyter notebook for initial data exploration
 - data_helpers  
   Python file with helper functions for SQL and data manipulation
 - read_and_dump.py  
