@@ -33,7 +33,7 @@ python read_and_dump.py -d data
 
 ### Retrieving best players
 #### Usage  
-python best_players.py -s <season>
+python best_players.py -s <season>  
 
 #### Example  
 python best_players.py -s 2011
